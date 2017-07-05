@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Positio</string>
+    <string name="notification">Please acknowledge the notification and correct your posture!</string>
+    <string name="welcome_text">Welcome to Positio!</string>
+</resources>
